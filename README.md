@@ -31,9 +31,10 @@
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NeftaliGC&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=NeftaliGC&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NeftaliGC&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NeftaliGC&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+[![Ultimo repo](https://github-readme-stats.vercel.app/api/pin/?username=NeftaliGC&theme=tokyonight&repo=vid-py)](https://github.com/NeftaliGC/vid-py)
 
 ## 🐦 Ultimo Tweet
 [![](https://gtce.itsvg.in/api?username=neftali_gc19)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
