@@ -43,9 +43,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=NeftaliGC&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://s3.amazonaws.com/www-inside-design/uploads/2019/02/hackerman.png" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=NeftaliGC&icon=4&color=0)](https://visitcount.itsvg.in)
 
