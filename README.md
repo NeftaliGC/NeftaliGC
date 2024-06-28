@@ -36,10 +36,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NeftaliGC&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 [![Ultimo repo](https://github-readme-stats.vercel.app/api/pin/?username=NeftaliGC&theme=tokyonight&repo=vid-py&show_owner=true)](https://github.com/NeftaliGC/vid-py)
 
-## 🐦 Ultimo Tweet
-[![](https://gtce.itsvg.in/api?username=neftali_gc19)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=NeftaliGC&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
